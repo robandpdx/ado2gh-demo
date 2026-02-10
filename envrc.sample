@@ -6,6 +6,9 @@ export GH_PAT=""
 export SOURCE_ORG="mindfulrob"
 export TARGET_ORG="robandpdx-volcano"
 
+## Project
+export SOURCE_TEAM_PROJECT="superservice"
+
 ## Repos
 export SOURCE_REPO="superservice"
 export TARGET_REPO="superservice"
