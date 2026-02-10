@@ -1,0 +1,7 @@
+.envrc
+orgs.csv
+pipelines.csv
+repos.csv
+team-projects.csv
+*.log
+migrate.ps1
