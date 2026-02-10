@@ -16,3 +16,6 @@ Start by renaming the `envrc.sample` file to `.envrc`. Edit the values as needed
 Generate an inventory report by running `./inventory-report.sh`.  
 Generate a migration script by running `./generate-script.sh`.  
 Migrate an individual repository by running `./migrate-repo.sh`.  
+
+## Unlock ADO repository
+To unlock an ADO repository, go to the repository Security settings and delete the `Project Valid Users` group permissions.  
